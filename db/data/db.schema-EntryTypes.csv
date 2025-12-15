@@ -1,0 +1,6 @@
+id,name
+ST,String
+NU,Number
+DA,Date
+TI,Time
+SC,SingleChar

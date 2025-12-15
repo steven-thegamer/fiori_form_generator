@@ -1,0 +1,6 @@
+{
+  "requires": {
+    "html5-repo": true,
+    "portal": true
+  }
+}
